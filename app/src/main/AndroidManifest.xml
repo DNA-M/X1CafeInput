@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".KikiActivity"></activity>
+        <activity android:name=".activity_devi"></activity>
+        <activity android:name=".KikiActivity" />
         <activity
             android:name=".OrderActivity"
             android:label="@string/title_activity_order"
