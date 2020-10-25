@@ -14,6 +14,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 //komen lgi deh
+// komit tgl 25 oktober 2020
 
 public class MainActivity extends AppCompatActivity {
 
